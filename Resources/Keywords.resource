@@ -5,4 +5,4 @@ Library  SeleniumLibrary
 No Operation Keyword
     [Documentation]   Just test 
     No Operation
-    Sleep    1s
+    Sleep    2s
