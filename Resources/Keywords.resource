@@ -3,5 +3,6 @@ Library  SeleniumLibrary
 
 *** Keywords ***
 No Operation Keyword
-    [Documentation]   ...
+    [Documentation]   Just test 
     No Operation
+    Sleep    1s
