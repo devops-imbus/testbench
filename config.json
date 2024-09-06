@@ -20,7 +20,7 @@
     "forcedImport": {
       "libraries": [],
       "resources": [
-        "import.resource"
+        "Resources/import.resource"
       ],
       "variables": []
     },
